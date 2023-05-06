@@ -1,8 +1,8 @@
 # TGPublic
-A reverse-engineered copy of the public code for the current build of The Genesis Project, as of 16/4/23. 
+A reverse-engineered copy of the public code for the current build of [The Genesis Project](https://store.steampowered.com/app/1610900/The_Genesis_Project/), as of 6/5/23. 
 For easier modding purposes.
 
-=== TUTORIAL ===
+# === TUTORIAL ===
 
 So you wanna also extract the code for yourself, right? Here's a basic rundown:
 You're gonna need:
@@ -20,7 +20,7 @@ Then, navigate to your Genesis Project folder in Steam, and find a folder called
 ...and simply open the file called Assembly-CSharp.dll. It should be all the way at the top.
 Boom, there you have it! The code is now accesible. You can right-click the Assembly file and save it in a folder to store it somewhere else, and for easier editing with other programs.
 
-=== EDITING THE CODE DIRECTLY ===
+# === EDITING THE CODE DIRECTLY ===
 
 Now that you have the code, you can look at it and figure out a lot of the inner workings... 
 ... but let's say you want an easier way of editing it, from inside the program.
@@ -43,10 +43,9 @@ After modifying it, you can save whatever changes you made by going to File, and
 
 Remember to keep a backup! Happy modding, folks!
 
-=========================================
+# =========================================
 
-
-COPY OF THE ORIGINAL LICENSE:
+## COPY OF THE ORIGINAL LICENSE:
 
 "The levels, 3d assets, sound assets, textures, and other assets INCLUDING particle systems, game object blueprints, and materials but NOT INCLUDING shaders are Copyright 2016 The Genesis Project Team if created expressly for the Genesis Project. If not created expressly for the Genesis Project, they remain copyright of the contributors, who by inclusion of their work in The Genesis Project are granting The Genesis Project a license to non-commercially distribute said work as part of The Genesis Project. If your work has been included in The Genesis Project and you do not wish to grant a license, you may request removal by opening an issue on this repo.
 
