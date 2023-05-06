@@ -20,7 +20,28 @@ Then, navigate to your Genesis Project folder in Steam, and find a folder called
 ...and simply open the file called Assembly-CSharp.dll. It should be all the way at the top.
 Boom, there you have it! The code is now accesible. You can right-click the Assembly file and save it in a folder to store it somewhere else, and for easier editing with other programs.
 
-Happy modding, folks!
+=== EDITING THE CODE DIRECTLY ===
+
+Now that you have the code, you can look at it and figure out a lot of the inner workings... 
+... but let's say you want an easier way of editing it, from inside the program.
+
+This is where dnSpy comes in!
+- dnSpy (https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8)
+
+It's pretty similar to the other guide! Open dnSpy, and select File, then Open.
+
+![image](https://user-images.githubusercontent.com/130933884/236640227-4bd06e15-13a0-4621-8514-cd7c06b446d1.png)
+
+Open the file called Assembly-CSharp.dll, like before. 
+You get access to everything you saw on the other guide, but now, by rightclicking on it and editing the class, you can modify it directly.
+
+![image](https://user-images.githubusercontent.com/130933884/236640950-286db189-4266-4a19-b025-95f0a215cb92.png)
+
+After modifying it, you can save whatever changes you made by going to File, and selecting Save Module.
+
+![image](https://user-images.githubusercontent.com/130933884/236641257-76e9c46d-01e6-40cd-9304-13c5f137988b.png)
+
+Remember to keep a backup! Happy modding, folks!
 
 =========================================
 
