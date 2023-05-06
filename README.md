@@ -43,7 +43,7 @@ After modifying it, you can save whatever changes you made by going to File, and
 
 Remember to keep a backup! Happy modding, folks!
 
-# =========================================
+# ====================================
 
 ## COPY OF THE ORIGINAL LICENSE:
 
